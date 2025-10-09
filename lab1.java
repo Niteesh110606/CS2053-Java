@@ -15,7 +15,7 @@ class Book {
         System.out.println("The price of the book is:$ "+price);
     }
 }
-public class lab1{
+public class Lab1{
     public static void main(String args[])
     {
         Book b1=new Book("The Great Gatsby","F. Scott Fitzgerald",279.99);
@@ -25,4 +25,5 @@ public class lab1{
         b2.display();
     }
 } 
+
 
